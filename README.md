@@ -3,6 +3,8 @@
 
 > **Built for Jain University Hackathon 2025** — Demonstrating the physics of LIDAR blind spots in autonomous vehicles.
 
+🔴 **[LIVE DEMO → lidar-system-swap.vercel.app](https://lidar-system-swap.vercel.app/)**
+
 ---
 
 ## 🎯 What Is This?
