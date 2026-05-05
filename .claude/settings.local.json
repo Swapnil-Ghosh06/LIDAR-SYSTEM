@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//mnt/c/Code with Swap/Swapnil/**)",
+      "Bash(npm run *)"
+    ]
+  }
+}
